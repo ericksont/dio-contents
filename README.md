@@ -9,20 +9,19 @@
 <img src="images/logo.png" alt="Logo DIO.me">
 
 > This repository aims to centralize all learning acquired on the portal [Dio.me](https://www.dio.me/en). 
-
+>
 
 ## 💻 Projects
 
 <table>
     <tr>
         <td align="center">
-            <a href="">
+            <a href="https://github.com/ericksont/dio-contents/tree/main/lab-projects/first-repository-github">
                 <img src="images/DIO-lab-project-first-repository-github.png" width=64 alt="first github repository badge"/>
             </a>
         </td>
         <td>
-            <b>
-[Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso](/images/logo.png)</b>
+            <a href="https://github.com/ericksont/dio-contents/tree/main/lab-projects/first-repository-github">Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso</a>
         </td>
     </tr>
 </table>
