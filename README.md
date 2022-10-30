@@ -10,13 +10,14 @@
 
 > This repository aims to centralize all learning acquired on the portal [Dio.me](https://www.dio.me/en). 
 
-## 💻 Projetos
+
+## 💻 Projects
 
 <table>
     <tr>
         <td align="center">
-            <a href="#">
-                <img src="images/DIO-challenge-first-repository.png" width=64 alt="first github repository badge"/>
+            <a href="">
+                <img src="images/DIO-lab-project-first-repository-github.png" width=64 alt="first github repository badge"/>
             </a>
         </td>
         <td>
