@@ -21,8 +21,7 @@
             </a>
         </td>
         <td>
-            <b>
-[Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso](https://github.com/ericksont/dio-contents/tree/main/lab-projects/first-repository-github)</b>
+            <a href="https://github.com/ericksont/dio-contents/tree/main/lab-projects/first-repository-github">Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso</a>
         </td>
     </tr>
 </table>
