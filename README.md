@@ -16,13 +16,13 @@
 <table>
     <tr>
         <td align="center">
-            <a href="">
+            <a href="https://github.com/ericksont/dio-contents/tree/main/lab-projects/first-repository-github">
                 <img src="images/DIO-lab-project-first-repository-github.png" width=64 alt="first github repository badge"/>
             </a>
         </td>
         <td>
             <b>
-[Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso](/images/logo.png)</b>
+[Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso](https://github.com/ericksont/dio-contents/tree/main/lab-projects/first-repository-github)</b>
         </td>
     </tr>
 </table>
