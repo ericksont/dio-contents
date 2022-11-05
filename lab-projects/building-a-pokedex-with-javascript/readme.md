@@ -12,3 +12,8 @@
 1. [Visual Studio Code](https://code.visualstudio.com/)
 
 ## 💻 Start project
+
+```
+http-server ./lab-projects/building-a-pokedex-with-javascript
+```
+
