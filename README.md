@@ -25,3 +25,18 @@
         </td>
     </tr>
 </table>
+
+## :crossed_swords:	 Code Challenges
+
+<table>
+    <tr>
+        <td align="center">
+            <a href="https://github.com/ericksont/dio-contents/tree/main/code-challenges/adding-multiples">
+                <img src="images/DIO-code-challenge-adding-multiples.png" width=64 alt="adding multiples challenge badge"/>
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/ericksont/dio-contents/tree/main/code-challenges/adding-multiples">Somando Múltiplos</a>
+        </td>
+    </tr>
+</table>
