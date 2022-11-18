@@ -4,16 +4,16 @@ pokeApi.getPokemons().then(pokemons=>{
 })
 
 const convertPokemonToLi = pokemon => {
+    
     return `
-        <li class="pokemon"> 
+        <li id="pokeid-${pokemon.id}" class="pokemon ${pokemon.type}"> 
             <span class="name">${pokemon.name}</span>
             
             <div class="detail">
                 <ol class="types">
-                    <li> tipo 1 </li>
-                    <li> tipo 2 </li>
+                    ${pokemon.types.map(type => `<li> ${type} </li>`).join(' ')}
                 </ol>
-                <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/35.svg" alt="${pokemon.name}">
+                <img src="${pokemon.photo}" alt="${pokemon.name}">
             </div>
             
         </li>
