@@ -30,10 +30,10 @@ pokeApi.getPokemons = (offset = 0, limit = 10) => {
     .then(pokemonsList=>pokemonsList.map( pokemon =>  pokeApi.getPokemonsDetails(pokemon)))
     .then(detailRequests => Promise.all(detailRequests))
     .then(pokemonsDetails => pokemonsDetails)
-    /*.catch(erro=>{
+    .catch(erro=>{
         console.error(erro)
     })
     .finally(()=>{
         console.log('Requisição finalizada!')
-    })*/
+    })
 }
