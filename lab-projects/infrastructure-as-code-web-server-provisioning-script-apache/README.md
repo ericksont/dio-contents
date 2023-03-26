@@ -1,4 +1,4 @@
-# Infrastructure as Code: Script to Create a Structure of Users, Directories and Permissions
+# Infrastructure as code - Web Server provisioning script (Apache)
 
 <p align="center">
     <img src="images/shell-script.jpg" alt="Image of shell scripts seen distorted.">
