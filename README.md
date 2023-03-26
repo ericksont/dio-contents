@@ -26,6 +26,19 @@
     </tr>
 </table>
 
+<table>
+    <tr>
+        <td align="center">
+            <a href="https://github.com/ericksont/dio-contents/tree/main/lab-projects/first-repository-github">
+                <img src="images/DIO-lab-project-first-repository-github.png" width=64 alt="first github repository badge"/>
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/ericksont/dio-contents/tree/main/lab-projects/infrastructure-as-code-script-to-create-a-structure-of-users-directories-and-permissions">Infraestrutura como código: Script para Criar uma Estrutura de Usuários, Diretórios e Permissões</a>
+        </td>
+    </tr>
+</table>
+
 ## :crossed_swords:	 Code Challenges
 
 <table>
