@@ -37,6 +37,16 @@
             <a href="https://github.com/ericksont/dio-contents/tree/main/lab-projects/infrastructure-as-code-script-to-create-a-structure-of-users-directories-and-permissions">Infraestrutura como código: Script para Criar uma Estrutura de Usuários, Diretórios e Permissões</a>
         </td>
     </tr>
+    <tr>
+        <td align="center">
+            <a href="https://github.com/ericksont/dio-contents/tree/main/lab-projects/infrastructure-as-code-web-server-provisioning-script-apache">
+                <img src="images/DIO-lab-project-infrastructure-as-code-web-server-provisioning-script-apache.png" width=64 alt="infrastructure as code web server provisioning script apache badge"/>
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/ericksont/dio-contents/tree/main/lab-projects/infrastructure-as-code-web-server-provisioning-script-apache">Infraestrutura como código: Script de Provisionamento de um Servidor Web (Apache)</a>
+        </td>
+    </tr>
 </table>
 
 ## :crossed_swords:	 Code Challenges
