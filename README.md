@@ -29,8 +29,8 @@
 <table>
     <tr>
         <td align="center">
-            <a href="https://github.com/ericksont/dio-contents/tree/main/lab-projects/first-repository-github">
-                <img src="images/DIO-lab-project-first-repository-github.png" width=64 alt="first github repository badge"/>
+            <a href="https://github.com/ericksont/dio-contents/tree/main/lab-projects/infrastructure-as-code-script-to-create-a-structure-of-users-directories-and-permissions">
+                <img src="images/DIO-lab-project-infrastructure-as-code-script-to-create-a-structure-of-users-directories-and-permissions.png" width=64 alt="infrastructure as code script to create a structure of users directories and permissions badge"/>
             </a>
         </td>
         <td>
