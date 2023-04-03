@@ -6,7 +6,7 @@ const maxRecords = 151
 
 const convertPokemonToLi = pokemon => {
     return `
-        <li id="pokeid-${pokemon.id}" class="pokemon ${pokemon.type}"> 
+        <li id="pokeid-${pokemon.id}" class="pokemon ${pokemon.type}" onClick="window.location.href = '/pokemon.html?id=${pokemon.id}'"> 
             <span class="name">${pokemon.name}</span>
             
             <div class="detail">

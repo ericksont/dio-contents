@@ -37,3 +37,8 @@ pokeApi.getPokemons = (offset = 0, limit = 10) => {
         console.log('Requisição finalizada!')
     })
 }
+
+pokeApi.getPokemonDetails = url => 
+    fetch(url)
+    .then(result => result.json())
+    
